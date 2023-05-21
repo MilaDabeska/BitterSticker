@@ -1,1 +1,1 @@
-# BitterSticker
+Interactive prototype made in Figma
